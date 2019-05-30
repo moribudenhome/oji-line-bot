@@ -1,0 +1,97 @@
+{
+	"comment": "",
+	"ignore": "",
+	"package": [
+		{
+			"checksumSHA1": "9C57mS4u5G8qwjOuGmClWN9xYfw=",
+			"path": "github.com/greymd/ojichat/generator",
+			"revision": "e99e2fc06b3af2567388c1be53cd15b1c9deccaa",
+			"revisionTime": "2019-05-30T09:07:36Z"
+		},
+		{
+			"checksumSHA1": "efgYTiuPzfEe3ee5U5VcVA124II=",
+			"path": "github.com/greymd/ojichat/pattern",
+			"revision": "e99e2fc06b3af2567388c1be53cd15b1c9deccaa",
+			"revisionTime": "2019-05-30T09:07:36Z"
+		},
+		{
+			"checksumSHA1": "jrjOOA1OnFkU02kJ74BU8/yScVs=",
+			"path": "github.com/ikawaha/kagome/internal/da",
+			"revision": "1b1efdb6a40da0610e9b39ba305338173ac1a06d",
+			"revisionTime": "2019-05-11T09:12:12Z"
+		},
+		{
+			"checksumSHA1": "wr73JRjELxkHNQ4RQUUT03Y6JrE=",
+			"path": "github.com/ikawaha/kagome/internal/dic",
+			"revision": "1b1efdb6a40da0610e9b39ba305338173ac1a06d",
+			"revisionTime": "2019-05-11T09:12:12Z"
+		},
+		{
+			"checksumSHA1": "boZy/b+7p9PFTy3r9AlTzHmkjjk=",
+			"path": "github.com/ikawaha/kagome/internal/dic/data",
+			"revision": "1b1efdb6a40da0610e9b39ba305338173ac1a06d",
+			"revisionTime": "2019-05-11T09:12:12Z"
+		},
+		{
+			"checksumSHA1": "yugSOQzv2NRtXx7WzPV3r7z0hWA=",
+			"path": "github.com/ikawaha/kagome/internal/lattice",
+			"revision": "1b1efdb6a40da0610e9b39ba305338173ac1a06d",
+			"revisionTime": "2019-05-11T09:12:12Z"
+		},
+		{
+			"checksumSHA1": "9XsTCzB9QukByqjjerYncKSclH4=",
+			"path": "github.com/ikawaha/kagome/tokenizer",
+			"revision": "1b1efdb6a40da0610e9b39ba305338173ac1a06d",
+			"revisionTime": "2019-05-11T09:12:12Z"
+		},
+		{
+			"checksumSHA1": "ToBTECyp7sdBhw2ywcpylVw8tZQ=",
+			"path": "github.com/jessevdk/go-assets",
+			"revision": "4f4301a06e153ff90e17793577ab6bf79f8dc5c5",
+			"revisionTime": "2016-09-21T14:41:39Z"
+		},
+		{
+			"checksumSHA1": "jwoPNwN+mUiYFQPjQa/U3Kli7Ak=",
+			"path": "github.com/kr/pretty",
+			"revision": "73f6ac0b30a98e433b289500d779f50c1a6f0712",
+			"revisionTime": "2018-05-06T08:33:45Z"
+		},
+		{
+			"checksumSHA1": "x9dJv+jQhUFN6R6h4fzPjGLvQLg=",
+			"path": "github.com/kr/text",
+			"revision": "e2ffdb16a802fe2bb95e2e35ff34f0e53aeef34f",
+			"revisionTime": "2018-05-06T08:24:08Z"
+		},
+		{
+			"checksumSHA1": "Egc4lve3x3Sl615qP6i1yemqbtE=",
+			"path": "github.com/line/line-bot-sdk-go/linebot",
+			"revision": "94d0d5e3ffdcd211ed84dea2fe0076d29bff8f47",
+			"revisionTime": "2019-05-30T06:39:39Z"
+		},
+		{
+			"checksumSHA1": "pcLXpbARGdRHWy5DaOYQZZix5nE=",
+			"path": "github.com/mattn/go-gimei",
+			"revision": "6a4b8c0a26342e6320e675615de141acdf30d7de",
+			"revisionTime": "2019-01-31T07:50:16Z"
+		},
+		{
+			"checksumSHA1": "Wd8ubEVnUegqb3cHp8dvu9755vs=",
+			"path": "github.com/miiton/kanaconv",
+			"revision": "37b47860541be8102731e27d90f1045f0aa505f6",
+			"revisionTime": "2019-01-13T03:06:51Z"
+		},
+		{
+			"checksumSHA1": "iyL0/njjAaU0nmQGSgoNVDpdvpU=",
+			"path": "gopkg.in/check.v1",
+			"revision": "788fd78401277ebd861206a03c884797c6ec5541",
+			"revisionTime": "2018-06-28T17:31:08Z"
+		},
+		{
+			"checksumSHA1": "xldGnHk44I4mgAwYKfsu7TqBPqM=",
+			"path": "gopkg.in/yaml.v2",
+			"revision": "51d6538a90f86fe93ac480b35f37b2be17fef232",
+			"revisionTime": "2018-11-15T11:05:04Z"
+		}
+	],
+	"rootPath": "github.com/moribudenhome/oji-line-bot"
+}
